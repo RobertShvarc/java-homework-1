@@ -11,6 +11,12 @@ public class MainH {
         System.out.println("manual  " + carName.isManual);
         carName.autoservice(6);
         System.out.println(carName.doors);
+
+
+        System.out.println("*******1");
+        System.out.println(carName1.carName);
+        System.out.println(carName1.isManual);
+        System.out.println(carName1.doors);
     }
 
 }
